@@ -29,10 +29,10 @@
 
 ## 安装
 
-将 `ai-think-human-code/SKILL.md` 放置到 opencode 的 skills 目录：
+将 `ai-think-human-code/SKILL.md` 放置到AI编程辅助工具的 skills 目录（以opencode为例）：
 
 ```
 ~/.config/opencode/skills/ai-think-human-code/SKILL.md
 ```
 
-重启 opencode 后生效。无需额外配置。
+重启工具后生效。无需额外配置。
